@@ -1,5 +1,6 @@
 import socket
 
+
 IP = ""
 PORT = 12345
 
